@@ -1,1 +1,72 @@
 @charset "UTF-8";
+
+/* CONFIGURAÇÕES GERAIS */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    min-height: 100vh;
+    background-color: darkgray;
+}
+
+/* HEADER */
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header > h1 {
+    padding: 50px 0px 0px 0px;
+    font-variant: small-caps;
+}
+
+header > p {
+    padding: 0px 0px 50px 0px;
+}
+
+/* SECTION */
+section {
+    padding: 10vh 0px 10vh 30px;
+    line-height: 2em;
+}
+
+
+/* .NORMAL */
+.normal {
+    background-color: white;
+    color: black;
+}
+
+/* .IMAGE */
+.image {
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+
+.image > p {
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.26);
+}
+
+
+/* FOOTER */
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* TAGS */
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
