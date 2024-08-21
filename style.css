@@ -17,6 +17,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-size: 1em;
 }
 
 html, body {
@@ -36,6 +37,7 @@ header > h1 {
     padding: 50px 0px 0px 0px;
     font-variant: small-caps;
     font-family: var(--fonte2);
+    font-size: 10vw;
 }
 
 header > p {
@@ -47,6 +49,7 @@ section {
     padding: 10vh 0px 10vh 30px;
     line-height: 2em;
     font-family: var(--fonte3);
+    font-size: 3.5vw;
 }
 
 
@@ -63,7 +66,8 @@ section {
 }
 
 .image > p {
-    width: 400px;
+    display: inline-block;
+    padding: 5px;
     background-color: rgba(0, 0, 0, 0.26);
 }
 
