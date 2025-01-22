@@ -3,7 +3,7 @@
 <p> O Site Cordel é uma página temática que celebra a cultura do cordel, destacando suas poesias.</p>
 
 <a id="deploy"></a>
-<p>- Link do deploy: [Adicione o link do deploy aqui]</p>
+<p>- Link do deploy: https://rmuler.github.io/site-cordel/
 
 <a name="ancora"></a>
 # Tópicos
